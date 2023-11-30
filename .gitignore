@@ -1,0 +1,10 @@
+*.html
+*.csv
+*.xls
+*.xlsx
+*.txt
+*.RData
+*.Rhistory
+*.Rproj.user
+*.Rproj.user
+.Rproj.user
